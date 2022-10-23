@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "732643037126",
+    "project_id": "eldora-b95c3",
+    "storage_bucket": "eldora-b95c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732643037126:android:40de0487a4f3626d23acc7",
+        "android_client_info": {
+          "package_name": "com.example.eldora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732643037126-9v8v5odnjcfebsln6blksc20cgvo53os.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTjBLT8lAV2MO_LmKezBzHyB4kzguja5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732643037126-9v8v5odnjcfebsln6blksc20cgvo53os.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
